@@ -1,0 +1,3 @@
+
+export const AUTH_SERVICES = 'AUTH_SERVICES';
+export const NATS_SERVICE = 'NATS_SERVICE';
